@@ -109,4 +109,23 @@ h1 {
 
 .small-text {
     font-size: 0.4em; /* Adjust the size as needed */
+}
+
+.blog-item {
+    margin-bottom: 2em;
+}
+
+.blog-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.blog-item img {
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.blog-item p {
+    font-size: 1em;
+    color: #333;
 } 
